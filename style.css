@@ -4,24 +4,24 @@ body {
 h1 {
     color: green;
     font-family: "Freckle Face", sans-serif;
-    font-size: 100px;
+    font-size: 400px;
 }
 
 h2 {
     color: green;
     font-family: "Bubblegum Sans", sans-serif;
-    font-size: 24px;
+    font-size: 50px;
 }
 
 .wrapper {
     color: black;
     font-family: "Bubblegum Sans", sans-serif;
-    font-size:50px;
+    font-size:100px;
 }
 
 .sharebtn {
     padding: 10px 20px;
-    font-size: 50px;
+    font-size: 100px;
     text-align: center;
     cursor: pointer;
     outline: none;
@@ -43,7 +43,7 @@ h2 {
 
 .punbtn {
     padding: 10px 20px;
-    font-size: 50px;
+    font-size: 100px;
     text-align: center;
     cursor: pointer;
     outline: none;
