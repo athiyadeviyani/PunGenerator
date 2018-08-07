@@ -1,0 +1,65 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    color: green;
+    font-family: "Freckle Face", sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    color: green;
+    font-family: "Bubblegum Sans", sans-serif;
+    font-size: 12px;
+}
+
+.wrapper {
+    color: black;
+    font-family: "Bubblegum Sans", sans-serif;
+    font-size: 20px;
+}
+
+.sharebtn {
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #0082ce;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0px #999;
+    font-family: "Boogaloo", sans-serif;
+  }
+  
+.sharebtn:hover {background-color:#000863}
+  
+.sharebtn:active {
+    background-color: #000863;
+    box-shadow: 0 px #666;
+    transform: translateY(4px);
+  }
+
+.punbtn {
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0px #999;
+    font-family: "Boogaloo", sans-serif;
+  }
+  
+.punbtn:hover {background-color: maroon}
+  
+.punbtn:active {
+    background-color: maroon;
+    box-shadow: 0 px #666;
+    transform: translateY(4px);
+    font-family: "Boogaloo", sans-serif;
+  }
