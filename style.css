@@ -10,7 +10,7 @@ html {
 h1 {
     color: green;
     font-family: "Freckle Face", sans-serif;
-    font-size: 70px;
+    font-size: 60px;
 }
 
 h2 {
@@ -22,7 +22,7 @@ h2 {
 .wrapper {
     color: black;
     font-family: "Bubblegum Sans", sans-serif;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .sharebtn {
