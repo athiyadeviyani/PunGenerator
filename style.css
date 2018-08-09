@@ -64,7 +64,7 @@ h2 {
 .punbtn:hover {background-color: maroon}
   
 .punbtn:active {
-    background-color: maroon;
+    background-color: red;
     box-shadow: 0 px #666;
     transform: translateY(4px);
     font-family: "Boogaloo", sans-serif;
