@@ -21,8 +21,8 @@ h2 {
 }
 
 .sharebtn {
-    padding: 10px 20px;
-    font-size: 20px;
+    padding: 15px 30px;
+    font-size: 25px;
     text-align: center;
     cursor: pointer;
     outline: none;
@@ -43,8 +43,8 @@ h2 {
   }
 
 .punbtn {
-    padding: 10px 20px;
-    font-size: 20px;
+    padding: 15px 30px;
+    font-size: 25px;
     text-align: center;
     cursor: pointer;
     outline: none;
